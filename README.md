@@ -36,7 +36,3 @@ You have to run an analysis on every sleep individually, on a non-overlapping wi
 4. Visualize your results in the best possible way, using python or MS Excel or GoogleSheets - showing the class in which each hour of every sleep is falling and the label given by you to that class, featurewise.
 
 5. Some of the CSVs have anomalies in them, such as gaps in the data, outliers, etc.. Figure out the best possible way to tackle them.
-
-For any clarifiactions please reach out to us at hr@dozee.io.
-
-**This repository will not self-destruct**
